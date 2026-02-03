@@ -1,8 +1,7 @@
 # 🤖 AI Engineer
 
-🔭 Developing a **Construction App** (FlutterFlow) and optimizing **ComfyUI** workflows.
 👯 Collaborating on **Computer Vision** (Materials Science) and **GenAI** pipelines.
-🌱 Mastering **On-device AI** segmentation and seamless texture generation.
+🌱 Currently, working on **On-device AI** segmentation and seamless texture generation.
 💬 Expert in **Image Processing** (OpenCV), **Stable Diffusion**, and **Medical Imaging**.
 ⚡ Former **Mission Vision Engineer** focused on microscopic structure analysis.
 
