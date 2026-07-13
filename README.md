@@ -11,17 +11,24 @@
 ---
 
 ### 📚 Featured Research (IEEE Publications)
-* **[Amyotrophic Lateral Sclerosis Disease Detection Through Facial Expression Analysis](https://ieeexplore.ieee.org/document/10956283)** — ICAIHC, Jan 2025
-* **[Image Caption Generation Using Contrastive Language Image Pretraining](https://ieeexplore.ieee.org/document/10725907)** — ICCCNT, Jun 2024
-* **[Comparative Study of EfficientNet and MobileNet for Lung Cancer Classification](https://ieeexplore.ieee.org/document/10493412)** — ICETITE, Feb 2024
-* **[Fake News Detection Using a Stacked Ensemble of Machine Learning Models](https://ieeexplore.ieee.org/document/10467326)** — IDCIoT, Jan 2024
+* **[Amyotrophic Lateral Sclerosis Disease Detection Through Facial Expression Analysis](https://ieeexplore.ieee.org/document/10956283)** — IEEE ICAIHC, Jan 2025
+* **[Image Caption Generation Using Contrastive Language Image Pretraining](https://ieeexplore.ieee.org/document/10725907)** — IEEE ICCCNT, Jun 2024
+* **[Comparative Study of EfficientNet and MobileNet Models for Lung Cancer Classification Using Chest CT Scan Images](https://ieeexplore.ieee.org/document/10493412)** — IEEE ICETITE, Feb 2024
+* **[Fake News Detection Using a Stacked Ensemble of Machine Learning Models](https://ieeexplore.ieee.org/document/10467326)** — IEEE IDCIoT, Jan 2024
 
 ---
 
 ### 💼 Professional Experience
-* **AI & Backend Developer (Home Ideas Technologies):** Building real-time AI voice agents, n8n automation pipelines, and computer vision workflows for interior design simulation.
-* **Machine Vision Engineer Intern (Insitumicron):** Specialized in grain boundary detection and microscopic structure analysis using image processing pipelines.
-* **Data Analyst Intern (Odugaa Tech):** Built end-to-end data pipelines and predictive ML models on 100K+ row datasets.
+* **AI & Backend Developer (Home Ideas Technologies):** Deployed real-time AI voice agents, n8n automation pipelines, and a computer vision AI Visualizer for interior design simulation — serving 15+ client companies.
+* **Machine Vision Engineer Intern (Insitumicron):** Established grain boundary detection pipelines processing 500+ microscopy images monthly, cutting manual processing time by 40%.
+* **Data Analyst Intern (Odugaa Tech):** Constructed end-to-end data pipelines and trained predictive ML models on 100K+ row datasets achieving 85% accuracy.
+
+---
+
+### 🚀 Featured Projects
+* **[Vigoe AI — Real-Time Voice AI Calling Platform](https://github.com/SriVarshan7):** Multi-tenant AI calling platform with bidirectional WebSocket audio, adaptive NLMS echo cancellation, outbound campaign engine, and RAG-based knowledge retrieval. Stack: Python, FastAPI, WebSockets, asyncio, Redis, NumPy/SciPy.
+* **AI-Powered Query System:** RAG pipeline extracting text from URLs, PDFs, and images (OCR) with Milvus vector storage and sub-second search. Stack: FastAPI, Milvus, Streamlit, Docker, Google Gemini AI.
+* **Fake News Detection — Stacked Ensemble ML:** 94% accuracy on 72K+ samples using stacked Random Forest, SVC, Logistic Regression, and XGBoost. Published at IEEE IDCIoT 2024.
 
 ---
 
